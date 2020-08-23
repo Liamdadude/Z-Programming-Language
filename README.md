@@ -1,6 +1,6 @@
 # Z (Zoom) Programming Language
 ## What is Zoom?
-Zoom is a Object-Oriented Programming Language.
+Zoom is a Object-Oriented Programming Language Designed to be Simple and Powerful.
 
 ## Whats special about zoom?
 - Everything is included! No messing with packages!
@@ -20,6 +20,10 @@ another note: every statement must end with a period
 ## Enviroment Variables
 ```
 advanced-mode = true. //sets advanced syntax to true
+graphics-mode = true. //sets the graphics_EngineOn internal variable to true
+bashOn = true. //enables Bash (Linux/Unix Shell) support
+cSyntax = true. //enables C-like syntax for Zoom
+
 ```
 ## Output:
 ```
@@ -38,20 +42,24 @@ double z = 2.4.
 
 ## Classes And Objects
 ```
-class hello
+class hello;
 // Stuff
 end class.
 
 hello = new hello.
+
+class hello:hewwo;
+//Class inheritance
+end class.
 ```
 
 
 ## Methods
 ```
-static  new().
+static  new();
 // Stuff
 end static method.
-static string  new.
+static string  new([Args]);
 //Stuff
 end string method.
 ```
