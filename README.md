@@ -14,7 +14,6 @@ Zoom is a Object-Oriented Programming Language Designed to be Simple and Powerfu
 # Syntax (unfinished)
 
 
-Note: (Not case sensitive)
 another note: every statement must end with a period
 
 ## Enviroment Variables
