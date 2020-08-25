@@ -1,4 +1,5 @@
 #include <iostream>
+<<<<<<< HEAD
 #include <map>
 
 using namespace std;
@@ -13,3 +14,24 @@ std::map<string, string> print = {
 int main(){
 cout<<"hello world";
 }
+=======
+<<<<<<< HEAD
+#include <math.h>
+#include <string.h>
+#include <map>
+using namespace std;
+
+int main() {
+string hello = "hello";
+cout<<hello;
+}
+=======
+#include <map>
+#include <string.h>
+#include <math.h
+
+int main(){
+cout<<"hello world";
+}
+>>>>>>> origin/Development
+>>>>>>> origin/Development
