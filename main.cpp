@@ -2,14 +2,14 @@
 #include <map>
 
 using namespace std;
-int lex(){
+/*int lex(){
 
 std::map<string, string> print = {
     { "ID", "print" },
-    { "B", "2" },
+    { "OP", "=" },
     { "C", "3" }
 };
-}
+}*/
 int main(){
-
+cout<<"hello world";
 }
