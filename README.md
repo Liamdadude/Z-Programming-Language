@@ -15,13 +15,17 @@ Zoom is a Object-Oriented Programming Language Designed to be Simple and Powerfu
 
 
 
+
 another note: every statement must end with a period
+
+note: every statement must end with a period
+
 
 ## Enviroment Variables
 ```
-advanced-mode = true. //sets advanced syntax to true
+advanced-mode = true. //sets advanced syntax to true. Includes Linux command support
 graphics-mode = true. //sets the graphics_EngineOn internal variable to true
-bashOn = true. //enables Bash (Linux/Unix Shell) support
+
 cSyntax = true. //enables C-like syntax for Zoom
 
 ```
