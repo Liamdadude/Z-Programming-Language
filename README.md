@@ -14,7 +14,12 @@ Zoom is a Object-Oriented Programming Language Designed to be Simple and Powerfu
 # Syntax (unfinished)
 
 
+
+
+another note: every statement must end with a period
+
 note: every statement must end with a period
+
 
 ## Enviroment Variables
 ```
@@ -115,3 +120,4 @@ average = new dataset[].
 add 5 to average.
 end dataset.
 ```
+wow
