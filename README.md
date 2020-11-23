@@ -15,9 +15,6 @@ Zoom is a Object-Oriented Programming Language Designed to be Simple and Powerfu
 
 
 
-
-another note: every statement must end with a period
-
 note: every statement must end with a period
 
 
